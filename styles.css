@@ -7,7 +7,7 @@
 .r-1igl3o0:hover { 
   background-color: darkorchid;
 }
-
+/* css-1dbjc4n r-1p0dtai r-1mlwlqe r-16l9doz r-1d2f490 r-ywje51 r-dnmrzs r-1udh08x r-u8s1d r-zchlnj r-ipm5af r-417010 */
 /* chat bubbles */
 div.css-1dbjc4n.r-k200y.r-gu4em3.r-pm2fo.r-1roi411.r-1867qdf.r-deolkf.r-dnmrzs.r-1ny4l3l.r-ymttw5.r-1f1sjgu.r-o7ynqc.r-6416eg { 
   background-color: rgb(247, 187, 219);
@@ -18,17 +18,16 @@ span {
 }
 
 svg {
-  stroke: lightpink ;
-  stroke-width: 1px; 
-  fill: magenta; 
+  stroke: rgb(255, 227, 255)  ;
+  stroke-width: 1; 
+  fill: rgb(255, 227, 255) !important; 
 }
 
 div.css-1dbjc4n:not(has(img)) {
   background-color: rgb(255, 143, 162); 
 } 
 
-div.r-f9dfq4,  div.r-kemksi, div.r-1h3ijdo, div.r-18u37iz.r-13qz1uu
-{ 
+div.r-f9dfq4,  div.r-kemksi, div.r-1h3ijdo, div.r-18u37iz.r-13qz1uu { 
   background-color: rgb(255, 143, 162);
  }
 
@@ -43,7 +42,7 @@ input, form, label {
 
 /*  Random Text */
 span.css-901oao { 
-  color: rgb(224, 248, 255); 
+  color: rgb(228, 251, 255); 
 }
 /* literally just the word and lmao */
 span.r-poiln3, span.r-poiln3:hover { 
