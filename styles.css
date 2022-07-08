@@ -1,0 +1,82 @@
+/* PINK TWITTER CSS 
+░█▀▄░█▀█░█▀█░░░█░█░█░█░█░█░░
+░█░█░█▀█░█░█░░░█▄█░█▀█░░█░░░
+░▀▀░░▀░▀░▀░▀░░░▀░▀░▀░▀░░▀░░░
+*/
+
+.r-1igl3o0:hover { 
+  background-color: darkorchid;
+}
+
+/* chat bubbles */
+div.css-1dbjc4n.r-k200y.r-gu4em3.r-pm2fo.r-1roi411.r-1867qdf.r-deolkf.r-dnmrzs.r-1ny4l3l.r-ymttw5.r-1f1sjgu.r-o7ynqc.r-6416eg { 
+  background-color: rgb(247, 187, 219);
+}
+
+span { 
+  background-color: inherit; 
+}
+
+svg {
+  stroke: lightpink ;
+  stroke-width: 1px; 
+  fill: magenta; 
+}
+
+div.css-1dbjc4n:not(has(img)) {
+  background-color: rgb(255, 143, 162); 
+} 
+
+div.r-f9dfq4,  div.r-kemksi, div.r-1h3ijdo, div.r-18u37iz.r-13qz1uu
+{ 
+  background-color: rgb(255, 143, 162);
+ }
+
+
+nav, article, main, header {
+    background: rgb(255, 143, 162);
+}
+input, form, label { 
+  background: rgb(255, 143, 162);
+
+}
+
+/*  Random Text */
+span.css-901oao { 
+  color: rgb(224, 248, 255); 
+}
+/* literally just the word and lmao */
+span.r-poiln3, span.r-poiln3:hover { 
+  color: rgb(255, 255, 255);
+}
+
+/* Hashtags / links */
+span.r-18u37iz, a.r-qvutc0 {
+  color: magenta !important; 
+}
+
+section, aside {
+  background: rgb(255, 143, 240);
+}
+
+div.r-l5o3uw {
+ background-color: magenta !important;
+}
+
+/* the tweet button lmao /*/ 
+a.r-l5o3uw, div.r-sdzlij.r-1phboty.r-rs99b7 {
+ background-color: magenta !important;
+}
+
+/* follows u */
+div.r-56xrmm.r-13hce6t.r-bcqeeo.r-1vvnge1  { 
+  background: purple;
+}
+
+* { 
+  cursor: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAGFBMVEVMaXEAAADTNpuIiIjnesD/qu7/zPn///+E0botAAAAAXRSTlMAQObYZgAAAMlJREFUeNpdkrEOhCAMQD2+QKdbTZOy3y+YcB/QWN0JsDsov3/lqJJQkoY+X1sGh2no4j324OhBHntw9ECVBj6d0U+dXsdgQC4l1xgNMswDSFaCe2YCljz/a7NfKZ+cJZOCyPI5SaoAL5aQWmKugNhK0cBJFHHBxbJTICscMHADwWLA8BhM0SI4+CowvHGMSc6q75DpiGVHAdrj/QqxdFRFAPnl36EKJfJ1qSoUKUAQ4VHcxqkIj7LeK5qiE5qiQlNuoS3q/4Jb+AGVe0EN8dVFEgAAAABJRU5ErkJggg=="), pointer !important;
+}
+
+* {
+    font-family: "Comic Sans MS", "Chalkboard SE", cursive, sans-serif !important;
+}
