@@ -23,11 +23,17 @@ svg {
   fill: rgb(255, 227, 255) !important; 
 }
 
+/* 
+fixing extra black highlights
+div.css-1dbjc4n.r-1ny4l3l.r-o7ynqc.r-6416eg:not(img){ 
+  background: rgb(231, 68, 196);
+}*/
+
 div.css-1dbjc4n:not(has(img)) {
   background-color: rgb(255, 143, 162); 
 } 
 
-div.r-f9dfq4,  div.r-kemksi, div.r-1h3ijdo, div.r-18u37iz.r-13qz1uu { 
+div.r-f9dfq4, div.r-kemksi, div.r-1h3ijdo, div.r-18u37iz.r-13qz1uu { 
   background-color: rgb(255, 143, 162);
  }
 
@@ -63,10 +69,12 @@ div.r-l5o3uw {
 }
 
 /* the tweet button lmao /*/ 
-a.r-l5o3uw, div.r-sdzlij.r-1phboty.r-rs99b7 {
+a.r-l5o3uw,  div.r-sdzlij.r-1phboty.r-rs99b7 {
  background-color: magenta !important;
 }
-
+a.r-1vtznih { 
+    background-color: darkorchid;
+}
 /* follows u */
 div.r-56xrmm.r-13hce6t.r-bcqeeo.r-1vvnge1  { 
   background: purple;
